@@ -1,0 +1,10 @@
+{
+  "id": "muse_seminar",
+  "name": "muse_seminar",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "muse_seminar.py",
+  "envvars": {}
+}
